@@ -1,0 +1,15 @@
+/Users/MW/Desktop/homeworks/Task2/bin/Debug/net6.0/Task2
+/Users/MW/Desktop/homeworks/Task2/bin/Debug/net6.0/Task2.deps.json
+/Users/MW/Desktop/homeworks/Task2/bin/Debug/net6.0/Task2.runtimeconfig.json
+/Users/MW/Desktop/homeworks/Task2/bin/Debug/net6.0/Task2.dll
+/Users/MW/Desktop/homeworks/Task2/bin/Debug/net6.0/Task2.pdb
+/Users/MW/Desktop/homeworks/Task2/obj/Debug/net6.0/Task2.csproj.AssemblyReference.cache
+/Users/MW/Desktop/homeworks/Task2/obj/Debug/net6.0/Task2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/MW/Desktop/homeworks/Task2/obj/Debug/net6.0/Task2.AssemblyInfoInputs.cache
+/Users/MW/Desktop/homeworks/Task2/obj/Debug/net6.0/Task2.AssemblyInfo.cs
+/Users/MW/Desktop/homeworks/Task2/obj/Debug/net6.0/Task2.csproj.CoreCompileInputs.cache
+/Users/MW/Desktop/homeworks/Task2/obj/Debug/net6.0/Task2.dll
+/Users/MW/Desktop/homeworks/Task2/obj/Debug/net6.0/refint/Task2.dll
+/Users/MW/Desktop/homeworks/Task2/obj/Debug/net6.0/Task2.pdb
+/Users/MW/Desktop/homeworks/Task2/obj/Debug/net6.0/Task2.genruntimeconfig.cache
+/Users/MW/Desktop/homeworks/Task2/obj/Debug/net6.0/ref/Task2.dll
