@@ -1,7 +1,27 @@
-﻿int a = 1; 
-int b = 2; 
-int c = 6; 
+﻿Console.WriteLine("Введите любое число");
+int num = Convert.ToInt32(Console.ReadLine());
+int PositiveIndex = 2;
+int NegativeIndex = -2;
 
-int max = a;
-if (a > max ) max = a; if (b > max ) max = b; if (c > max ) max = c; if (d > max ) max = d; if (e > max ) max = e;
-Console.Write(“max = ”); Console.WriteLine(max);
+if (num > 1)
+{
+    while (PositiveIndex < num) do
+    {
+        Console.Write(PositiveIndex);
+        PositiveIndex + 2;
+    }
+    else 
+    {
+        Console.Write(num);
+    }
+}
+if (num > -2 & num < 1)
+{
+    Console.WriteLine("В диапазоне от 1 до введённого числа нет чётных чисел");
+}
+else
+{
+    while ()
+    Console.Write(NegativeIndex);
+        NegativeIndex - 2;
+}
