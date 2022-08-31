@@ -5,15 +5,12 @@ int NegativeIndex = -2;
 
 if (num > 1)
 {
-    while (PositiveIndex < num) do
+    while(PositiveIndex < num)
     {
-        Console.Write(PositiveIndex);
-        PositiveIndex + 2;
+        Console.Write(PositiveIndex); Console.Write(", ");
+        PositiveIndex += 2;
     }
-    else 
-    {
         Console.Write(num);
-    }
 }
 if (num > -2 & num < 1)
 {
@@ -21,7 +18,10 @@ if (num > -2 & num < 1)
 }
 else
 {
-    while ()
-    Console.Write(NegativeIndex);
-        NegativeIndex - 2;
+    while(NegativeIndex > num)
+    {
+        Console.Write(NegativeIndex); Console.Write(", ");
+        NegativeIndex -= 2;
+    }
+        Console.Write(num);
 }
