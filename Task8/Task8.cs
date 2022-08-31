@@ -10,9 +10,8 @@ if (num > 1)
         Console.Write(PositiveIndex); Console.Write(", ");
         PositiveIndex += 2;
     }
-        Console.Write(num);
 }
-if (num > -2 & num < 1)
+if (num > -2 & num <= 1)
 {
     Console.WriteLine("В диапазоне от 1 до введённого числа нет чётных чисел");
 }
@@ -23,5 +22,5 @@ else
         Console.Write(NegativeIndex); Console.Write(", ");
         NegativeIndex -= 2;
     }
-        Console.Write(num);
+    Console.WriteLine(num); 
 }
